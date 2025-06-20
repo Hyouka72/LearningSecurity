@@ -10,15 +10,21 @@ This project is a learning exercise to understand how to secure Spring Boot appl
 4) Configure HTTP Basic authentication with stateless sessions
 5)Disable CSRF protection (only for API simplicity)
 
-Technologies Used
+Technologies Used:
+
 #Java 17
+
 #Spring Boot 3.x
+
 #Spring Security
+
 #Spring Data JPA
+
 #PostgreSQL
+
 #Maven
 
-Features
+Features:
 
 1)User login via HTTP Basic Authentication
 
@@ -32,12 +38,15 @@ Features
 
 Getting Started
 
-Prerequisites
+Prerequisites:
+
 #Java JDK 17+
+
 #PostgreSQL database
+
 #Maven
 
-Setup
+Setup:
 
 1)Clone the repository
 
