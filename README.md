@@ -21,9 +21,13 @@ Technologies Used
 Features
 
 1)User login via HTTP Basic Authentication
+
 2)Custom user details service fetching users from PostgreSQL
+
 3)Stateless session management
+
 4)Simple user entity with username and password
+
 5)Roles assigned via UserPrincipal
 
 Getting Started
