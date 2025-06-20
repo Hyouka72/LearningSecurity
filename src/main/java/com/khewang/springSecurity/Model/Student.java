@@ -1,4 +1,4 @@
-package com.khewang.springSecurity;
+package com.khewang.springSecurity.Model;
 
 public class Student {
     private int id;
